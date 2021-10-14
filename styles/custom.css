@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(26, 32, 44, 1);
+  color: rgb(255, 255, 255);
+}
+
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+.grayscale {
+  filter: grayscale(1);
+}
+
+.grayscale:hover {
+  filter: grayscale(0);
+}
