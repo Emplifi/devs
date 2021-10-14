@@ -2,7 +2,7 @@
 title: 'Sentiment Analysis at Socialbakers'
 article: true
 excerpt: "Our Innovations team at Socialbakers was working on a very interesting task last year, sentiment analysis for social media. In the context of our work, sentiment analysis is an automated process of text analysis leading to a prediction of how an audience feels towards any given subject from texts of social media messages."
-coverImage: 'https://images.unsplash.com/photo-1508280756091-9bdd7ef1f463?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=700&q=80'
+coverImage: 'https://images.unsplash.com/photo-1508280756091-9bdd7ef1f463?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=1240&q=80'
 date: '2020-03-23'
 author:
   name: Jan Rus
