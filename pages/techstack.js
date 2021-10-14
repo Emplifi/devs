@@ -34,7 +34,7 @@ const Techstack = ({ post, preview }) => {
 
 export default Techstack;
 
-export async function getStaticProps({ params }) {
+export async function getStaticProps() {
   const post = getPostBySlug("_techstack", [
     "title",
     "date",
