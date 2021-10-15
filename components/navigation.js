@@ -36,7 +36,7 @@ const Navigation = () => {
                     </a>
                 </div>
 
-                <div className="order-2 md:order-3 flex items-center hidden" id="nav-content">
+                <div className="order-2 md:order-3 flex items-center" id="nav-content">
 
                     <a className="inline-block no-underline hover:text-black" href="#">
                         <svg className="fill-current hover:text-black" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
