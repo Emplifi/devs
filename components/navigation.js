@@ -32,11 +32,11 @@ const Navigation = () => {
 
                 <div className="order-1 md:order-1">
                     <a className="flex items-center tracking-wide no-underline hover:no-underline font-bold text-gray-100 text-xl " href="/">
-                        <img src="../assets/blog/white-symbol.png" />
+                        <img src="../assets/blog/path931.png" alt="Emplifi logotype" className="w-12 h-12" />
                     </a>
                 </div>
 
-                <div className="order-2 md:order-3 flex items-center" id="nav-content">
+                <div className="order-2 md:order-3 hidden items-center" id="nav-content">
 
                     <a className="inline-block no-underline hover:text-black" href="#">
                         <svg className="fill-current hover:text-black" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
